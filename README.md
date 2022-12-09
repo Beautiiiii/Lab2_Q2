@@ -1,5 +1,3 @@
-642115025 Nureman Sateemae
-642115042 Sasipha Thonkhan
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
